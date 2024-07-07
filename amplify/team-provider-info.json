@@ -10,6 +10,14 @@
       "StackName": "amplify-supernovaai-dev-25b90",
       "StackId": "arn:aws:cloudformation:us-east-1:891377155927:stack/amplify-supernovaai-dev-25b90/069f9e00-3c57-11ef-9d77-0affcf39faf1",
       "AmplifyAppId": "d320wkx71r29z9"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d320wkx71r29z9",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
